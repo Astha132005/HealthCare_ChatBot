@@ -105,13 +105,3 @@ This project is not intended for real medical diagnosis or treatment. It is a de
 ## 🌟 Star this repo if you found it helpful!
 
 ```
-
----
-
-Let me know if you'd like:
-- A `requirements.txt` file
-- Screenshots added to the README
-- A badge section (stars, license, python version) at the top
-
-I can add them for you!
-```
